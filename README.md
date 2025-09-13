@@ -15,3 +15,10 @@ This project analyzes the customer profiles and the impact of marketing campaign
 - **Campaign performance:** There was a 238.44% improvement compared to the previous year.
 - **Contact strategy:** The best results are achieved with 1 to 3 contacts and calls lasting 1 to 10 minutes. Longer interactions do not significantly increase success.
 - **Economic condition:** Effectiveness decreases as the Euribor and const_price_idx rise, showing customer sensitivity to macroeconomic conditions.
+
+## 🧭Conclusion
+The analysis shows that marketing strategies focused on customers aged 31-50, with higher education and stable jobs, maximize the success rate. Additionally, limiting campaign contacts to 1-3 short interactions enhances effectiveness. However, macroeconomic conditions such as euribor and const_price_idx have a direct influence on customer decisions, meaning campaigns must adapt to the economic context to sustain or improve results.
+
+## 🛠️Built with
+- Python (pandas, numpy, matplotlib, seaborn)
+- Jupyter Notebook for exploratory analysis and visualization.
